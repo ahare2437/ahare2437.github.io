@@ -1,0 +1,175 @@
+body {
+    width: 100vw;
+    height: 300vw;
+}
+.menu {
+    width: 100vw;
+    height: 7vw;
+    
+}
+
+.top {
+    width: 100vw;
+    height: 2vw;
+    display: grid;
+    grid-template-columns:  1.5fr .5fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 40vw;
+
+}
+
+.options {
+    background-color: rgb(225, 165, 232);
+    height: 2vw;
+    margin-left: 1vw;
+
+}
+
+.site_options {
+    background-color: rgb(225, 165,232);
+    height: 2vw;
+    margin-right: 2vw;
+
+}
+
+.bottom {
+    background-color: rgb(208, 35, 230);
+    width: 100vw;
+    height: 4vw;
+    margin-top: 1vw;
+    display: grid;
+    grid-template-columns: 3vw 70vw 27vw;
+    grid-template-rows: 1;
+    grid-column-gap: 2vw;
+
+}
+
+.logo {
+    background-color: rgb(102, 10, 114);
+    height: 3vw;
+    width: 3vw;
+    margin-top: .5vw;
+    margin-left: 1vw;
+
+}
+
+.drop_downs{
+    background-color: rgb(226, 0, 255);
+    height: 2.8vw;
+    width: 50vw;
+    margin-top: .5vw;
+
+    
+}
+
+.search {
+    background-color: rgb(226, 0, 255);
+    height: 2.2vw;
+    width: 21vw;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+.main {
+    width: 100vw;
+
+}
+
+.train {
+    background-color: rgb(129, 10, 144);
+    width: 100vw;
+    height: 25vw;
+}
+
+.big_text {
+    background-color: rgb(244, 159, 255);
+    height: 8vw;
+    width: 20vw;
+    position: absolute;
+    right: 10vw;
+    top: 11vw;
+}
+
+.shop {
+    background-color: rgb(102, 10, 114);
+    height: 3vw;
+    width: 7vw;
+    position: absolute;
+    right: 11.5vw;
+    bottom: 35.5vw;
+
+}
+
+.row1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    height: 7vw;
+    margin-top: 5vw;
+    width: 40vw;
+    margin: auto;
+
+}
+
+.item1 {
+    background-color: rgb(184 , 34, 203);
+    width: 2vw;
+    height: 6vw;
+    margin-left: 3vw;
+    margin-top: 1vw;
+}
+
+.item2 {
+    background-color: rgb(184 , 34, 203);
+    width: 5vw;
+    height: 6vw;
+    margin-top: 1vw;
+
+}
+
+.item3 {
+    background-color: rgb(184 , 34, 203);
+    width: 5vw;
+    height: 6vw;
+    margin-top: 1vw;
+
+}
+
+.item4 {
+    background-color: rgb(184 , 34, 203);
+    width: 5vw;
+    height: 6vw;
+    margin-top: 1vw;
+
+}
+
+.item5 {
+    background-color: rgb(184 , 34, 203);
+    width: 5vw;
+    height: 6vw;
+    margin-top: 1vw;
+
+}
+
+.item6 {
+    background-color: rgb(184 , 34, 203);
+    width: 5vw;
+    height: 7vw;
+    margin-top: 1vw;
+
+}
+
+.row2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 19vw;
+    margin-top: 4vw;
+    margin-left: 1vw;
+
+}
+
+.image {
+    background-color: rgb(163, 122, 168);
+    width: 30vw;
+    
+}
