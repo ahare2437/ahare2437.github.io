@@ -1,48 +1,7 @@
 body {
-    background-color:rgb(255, 255, 255);
+    background-color:white;
     width: 100%;
     height: 100vw;
     margin: auto;
 
-}
-
-.sidebar {
-    position: absolute;
-    background-color:rgb(118, 118, 118);
-    width: 12vw;
-    height: 60vw;
-    margin-left: 7vw;
-    margin-top: 1vw;
-}
-
-.main { 
-    width: 60vw;
-    height: 100vw;
-    margin-left: 20%;
-    margin-right: 15%;
-}
-
-.row {
-    background-color: rgb(196,196, 196);
-    width: 70vw;
-    height: 25vw;
-    margin-bottom: 1vw;
-    grid-template-rows: 20%;
-    grid-row-gap: 1em;
-}
-
-.picture {
-    background-color:rgb(52, 52, 52);
-    width: 23.54%;
-    height: 85%;
-    margin-left: .8vw;
-    margin-top: 3vw;
-    float: left;
-}
-
-.caption {
-    background-color: rgb(213, 213, 213);
-    width: 100%;
-    height: 3vw;
-    
 }
