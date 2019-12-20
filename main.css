@@ -278,6 +278,7 @@ img {
     width: auto;
     margin-left: -1vw;
     margin-top: -.4vw;
+    text-decoration: none;
 }
 
 .enter {
@@ -293,6 +294,7 @@ img {
     font-size: 4vw;
     margin-left: 45vw;
     margin-top: 1vw;
+    
 }
 
 .openportfolio {
